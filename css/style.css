@@ -1,0 +1,18 @@
+#img_preview{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+#color_date{
+	font-size: 24px;
+}
+.navbar-inner{
+  background-image: url('navbar-bg.png');
+  background-repeat: repeat-x;
+}
+.logo-echo{
+padding-left: 100px;
+background-color: red;
+margin: 100px;
+padding-bottom: 50px;
+}
